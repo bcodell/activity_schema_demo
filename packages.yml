@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/bcodell/dbt-activity-schema.git"
+    revision: "v0.1.0"
