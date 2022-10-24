@@ -1,2 +1,3 @@
 packages:
-  - local: /Users/Bryce/Desktop/my_projects/dbt_activity_schema
+  - git: "https://github.com/bcodell/dbt-activity-schema.git"
+    revision: "v0.1.0"
