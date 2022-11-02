@@ -9,7 +9,7 @@ Users should be familiar with the following resources before using this demo rep
 3. `dbt-activity-schema` [package documentation](https://dbt-activity-schema.notion.site/dbt-activity-schema-1b4fff4d0b2d43c8a3fedd857a21b47e)
 
 # Environment Setup
-This demo was built using `dbt-core` and `dbt-postgres` version 1.2.0 on Python 3.10.
+This demo was built using Python 3.10, and has been validated on `dbt-core` and `dbt-postgres` version 1.2.0 and 1.3.0.
 
 # Model Organization
 The `models` directory has the following structure:
